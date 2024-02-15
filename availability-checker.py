@@ -1,4 +1,4 @@
-#Python tool to verify Network port's availability
+#Python tool to verify Network ports' availability
 import nmap
 #Menu for options
 print("Please type the IP address or domain for network port availability verification: ", end="")
